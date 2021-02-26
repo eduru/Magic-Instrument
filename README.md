@@ -10,12 +10,15 @@ You can watch a video of the App here: https://www.youtube.com/watch?v=T53NauO9z
 ## About Magic Instrument
 
 I'm an Apple fanboy so I wanted to try to develop an iOS application during poliglotal week at Code Chrysalis.
+</br>
 I developed the app using Xcode and Swift.
 
 ### The goal of the application
 
 It doesn't matter that you haven't played any instrument before. The app is built in a way that all the notes you play will
-sound correctly. Just enjoy the instrument and dance along the chiken!
+sound correctly. 
+</br>
+Just enjoy the instrument and dance along the chiken!
 
 ### Features
 
