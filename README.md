@@ -1,6 +1,6 @@
 # Magic Instrument
 
-<img src="./magic instrument/logo.png" width="180px" />
+<img src="./magic instrument/logo.png" width="480px" />
 
 Personal project during poliglotal week at Code Chrysalis.
 
@@ -10,6 +10,7 @@ You can watch a video of the App here: https://www.youtube.com/watch?v=T53NauO9z
 ## About Magic Instrument
 
 I'm an Apple fanboy so I wanted to try to develop an iOS application during poliglotal week at Code Chrysalis.
+I developed the app using Xcode and Swift.
 
 ### The goal of the application
 
