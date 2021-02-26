@@ -11,7 +11,7 @@ You can watch a video of the App here: https://www.youtube.com/watch?v=T53NauO9z
 
 I'm an Apple fanboy so I wanted to try to develop an iOS application during poliglotal week at Code Chrysalis.
 </br>
-I developed the app using Xcode and Swift.
+I developed in a few days the app using Xcode and Swift (a complete new language for me).
 
 ### The goal of the application
 
