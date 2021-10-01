@@ -18,7 +18,7 @@ I developed in a few days the app using Xcode and Swift (a complete new language
 It doesn't matter that you haven't played any instrument before. The app is built in a way that all the notes you play will
 sound correctly. 
 </br>
-Just enjoy the instrument and dance along the chiken!
+Just enjoy the instrument and dance along with the chiken!
 
 ### Features
 
